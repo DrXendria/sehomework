@@ -5,3 +5,4 @@
  3-) chat arşivleme
  4-) durumlar
 
+görev başarılı .
