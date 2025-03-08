@@ -2,6 +2,5 @@
 
  1-) message chat
  2-) video chat 
- 3-) audio chat 
- 4-) chat arşivleme
- 5-) durumlar
+ 3-) chat arşivleme
+ 4-) durumlar
