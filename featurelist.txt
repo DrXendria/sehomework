@@ -1,7 +1,6 @@
  seçilen uygulama whatsapp
 
- 1-) audio chat
- 2-) video chat 
- 3-) message chat 
- 4-) chat arşivleme
- 5-) durumlar
+ 1-) video chat 
+ 2-) message chat
+ 3-) chat arşivleme
+ 4-) durumlar
