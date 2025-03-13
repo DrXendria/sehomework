@@ -6,7 +6,9 @@
  4-) durumlar
  5-) audio chat 
  6-) grup oluşturma
+ 7-) engel atma
  09/03/2025 commiti
-10/03/2025 commiti
-11/03/2025 commiti (6.özellik)
-12/03/2025 commiti 
+ 10/03/2025 commiti
+ 11/03/2025 commiti (6.özellik)
+ 12/03/2025 commiti 
+ 13/03/2025 commiti (7.özellik)
